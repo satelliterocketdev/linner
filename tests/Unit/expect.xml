@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<dataset>
+    <account_followers destination_user_id="U90950684759136bc5088d9f5df298d3b" reply_token="235b724ef050418191f63b80299109f7" source_type="user" source_user_id="U36c407334dac3c967c6ece012c05e65b" event_type="follow" timedate_followed="1.567128448688E12" />
+    <message_delivery destination="U90950684759136bc5088d9f5df298d3b" replyToken="235b724ef050418191f63b80299109f7" source_type="user" source_userId="U36c407334dac3c967c6ece012c05e65b" event_type="follow" message_id="10479986944630" message_text="テストメッセージ" message_type="text" timestamp="1.567128448688E12" />
+</dataset>

@@ -1,0 +1,29 @@
+## for Laravel
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+## for webpack
+/node_modules
+/test/js
+/test/browsertest/js
+/test/fixtures/temp-cache-fixture
+/benchmark/js
+/benchmark/fixtures
+/examples/**/dist
+/coverage
+.DS_Store
+*.log
+.idea
+.vscode
+.eslintcache
+package-lock.json

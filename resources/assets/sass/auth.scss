@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+.login-wrapper {
+  max-width: 380px;
+  width: 100%;
+
+  h1.logo {
+    color: #073B4C;
+    font-size:5em;
+    font-family: Arial;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+  }
+
+}
+
+body {
+  background-color: white;
+}
+
+label {
+  color: #609cfa;
+  font-size: 0.7em;
+  font-weight: bold;
+}
+
+.btn-block {
+  width:150px;
+}
+
+.exlink-wrapper {
+  position: relative;
+}
+
+.exlink {
+  position:absolute;
+  right:0;
+  top:-50px;
+}
+
+a {
+  font-weight: bold;
+}
